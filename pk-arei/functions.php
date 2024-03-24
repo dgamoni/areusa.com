@@ -137,3 +137,4 @@ function my_toolbars( $toolbars )
     return $toolbars;
 }
 
+require_once get_stylesheet_directory() . '/include/infusionsoft_validations.php';
